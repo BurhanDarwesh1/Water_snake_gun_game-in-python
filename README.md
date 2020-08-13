@@ -1,4 +1,4 @@
-# Water_snake_gun_game-in-python
+# Water-Snake-Gun-game-in-python
 
 Most of people play this game in their childhood.The game is coded in python 3.
 
